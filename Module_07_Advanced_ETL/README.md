@@ -1,3 +1,5 @@
+![Module 07 Header](../assets/images/module_07_header.svg)
+
 # Module 07: Advanced ETL Patterns
 
 **Duration**: 2 weeks (40-60 hours) | **Difficulty**: ⭐⭐⭐⭐⭐ Expert

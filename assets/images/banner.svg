@@ -1,0 +1,160 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient backgrounds -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fb923c;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0.8" />
+    </linearGradient>
+
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative circuit pattern (left side) -->
+  <g opacity="0.15">
+    <circle cx="50" cy="50" r="3" fill="#f97316"/>
+    <circle cx="100" cy="80" r="3" fill="#f97316"/>
+    <circle cx="80" cy="120" r="3" fill="#f97316"/>
+    <line x1="50" y1="50" x2="100" y2="80" stroke="#f97316" stroke-width="1"/>
+    <line x1="100" y1="80" x2="80" y2="120" stroke="#f97316" stroke-width="1"/>
+    
+    <rect x="30" y="180" width="40" height="30" fill="none" stroke="#3b82f6" stroke-width="2"/>
+    <rect x="90" y="200" width="30" height="40" fill="none" stroke="#3b82f6" stroke-width="2"/>
+    <line x1="70" y1="195" x2="90" y2="220" stroke="#3b82f6" stroke-width="1"/>
+  </g>
+
+  <!-- Globe illustration (right side) -->
+  <g transform="translate(1050, 120)" opacity="0.3">
+    <!-- Globe circle -->
+    <circle cx="0" cy="0" r="45" fill="none" stroke="#06b6d4" stroke-width="2.5"/>
+    <ellipse cx="0" cy="0" rx="45" ry="20" fill="none" stroke="#06b6d4" stroke-width="1.5"/>
+    <ellipse cx="0" cy="0" rx="20" ry="45" fill="none" stroke="#06b6d4" stroke-width="1.5"/>
+    
+    <!-- Latitude lines -->
+    <ellipse cx="0" cy="-15" rx="42" ry="8" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.6"/>
+    <ellipse cx="0" cy="15" rx="42" ry="8" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.6"/>
+    
+    <!-- Data nodes on globe -->
+    <circle cx="-25" cy="-10" r="3" fill="#f97316"/>
+    <circle cx="20" cy="-15" r="3" fill="#f97316"/>
+    <circle cx="-15" cy="20" r="3" fill="#f97316"/>
+    <circle cx="25" cy="15" r="3" fill="#f97316"/>
+    
+    <!-- Connection lines between data points -->
+    <line x1="-25" y1="-10" x2="20" y2="-15" stroke="#f97316" stroke-width="1" opacity="0.5"/>
+    <line x1="20" y1="-15" x2="25" y2="15" stroke="#f97316" stroke-width="1" opacity="0.5"/>
+    <line x1="-15" y1="20" x2="25" y2="15" stroke="#f97316" stroke-width="1" opacity="0.5"/>
+  </g>
+  
+  <!-- Data flow visualization -->
+  <g opacity="0.2">
+    <!-- Database cylinders -->
+    <ellipse cx="950" cy="50" rx="25" ry="7" fill="none" stroke="#06b6d4" stroke-width="2"/>
+    <line x1="925" y1="50" x2="925" y2="65" stroke="#06b6d4" stroke-width="2"/>
+    <line x1="975" y1="50" x2="975" y2="65" stroke="#06b6d4" stroke-width="2"/>
+    <ellipse cx="950" cy="65" rx="25" ry="7" fill="none" stroke="#06b6d4" stroke-width="2"/>
+    
+    <!-- Analytics chart bars -->
+    <rect x="920" y="230" width="12" height="30" fill="#f97316" opacity="0.6"/>
+    <rect x="937" y="215" width="12" height="45" fill="#f97316" opacity="0.6"/>
+    <rect x="954" y="220" width="12" height="40" fill="#f97316" opacity="0.6"/>
+  </g>
+
+  <!-- Tamil cultural element - Kolam pattern -->
+  <g transform="translate(150, 230)" opacity="0.25">
+    <circle cx="0" cy="0" r="8" fill="none" stroke="#f97316" stroke-width="2"/>
+    <circle cx="25" cy="0" r="8" fill="none" stroke="#f97316" stroke-width="2"/>
+    <circle cx="50" cy="0" r="8" fill="none" stroke="#f97316" stroke-width="2"/>
+    <path d="M 8,0 Q 12.5,-15 17,0" fill="none" stroke="#f97316" stroke-width="1.5"/>
+    <path d="M 33,0 Q 37.5,-15 42,0" fill="none" stroke="#f97316" stroke-width="1.5"/>
+  </g>
+
+  <!-- Main Tamil Text - கற்க கசடற -->
+  <text x="600" y="90" font-family="'Noto Sans Tamil', 'Lohit Tamil', sans-serif" font-size="56" font-weight="700" fill="url(#accentGradient)" text-anchor="middle" filter="url(#glow)">
+    கற்க கசடற
+  </text>
+  
+  <!-- English Title -->
+  <text x="600" y="140" font-family="'Inter', 'Segoe UI', sans-serif" font-size="42" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+    KARKA KASADARA
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="170" font-family="'Inter', 'Segoe UI', sans-serif" font-size="18" font-weight="400" fill="#94a3b8" text-anchor="middle" letter-spacing="3">
+    LEARN FLAWLESSLY
+  </text>
+
+  <!-- Tagline with data engineering theme -->
+  <g>
+    <rect x="350" y="195" width="500" height="2" fill="url(#dataGradient)" opacity="0.5"/>
+    
+    <text x="600" y="225" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="600" fill="#e2e8f0" text-anchor="middle" letter-spacing="1">
+      Zero to Data Engineer
+    </text>
+    
+    <text x="600" y="255" font-family="'Consolas', 'Monaco', monospace" font-size="14" fill="#64748b" text-anchor="middle" letter-spacing="2">
+      SQL • ETL • SSIS • Power BI • Data Warehousing
+    </text>
+  </g>
+  
+  <!-- Tamil Wisdom Quote -->
+  <g transform="translate(600, 275)">
+    <text x="0" y="0" font-family="'Noto Sans Tamil', 'Lohit Tamil', sans-serif" font-size="11" fill="#f97316" text-anchor="middle" opacity="0.9">
+      கற்றது கைஅளவு, கல்லாதது உலகளவு
+    </text>
+  </g>
+  
+  <!-- English translation of quote -->
+  <g transform="translate(600, 290)">
+    <text x="0" y="0" font-family="'Inter', 'Segoe UI', sans-serif" font-size="9" fill="#64748b" text-anchor="middle" opacity="0.8" font-style="italic">
+      "What we have learned is a handful, what we haven't learned is the size of the world"
+    </text>
+  </g>
+
+  <!-- Decorative corner elements -->
+  <g opacity="0.4">
+    <!-- Top left corner -->
+    <line x1="20" y1="20" x2="60" y2="20" stroke="#f97316" stroke-width="3"/>
+    <line x1="20" y1="20" x2="20" y2="60" stroke="#f97316" stroke-width="3"/>
+    
+    <!-- Top right corner -->
+    <line x1="1140" y1="20" x2="1180" y2="20" stroke="#3b82f6" stroke-width="3"/>
+    <line x1="1180" y1="20" x2="1180" y2="60" stroke="#3b82f6" stroke-width="3"/>
+    
+    <!-- Bottom left corner -->
+    <line x1="20" y1="240" x2="20" y2="280" stroke="#3b82f6" stroke-width="3"/>
+    <line x1="20" y1="280" x2="60" y2="280" stroke="#3b82f6" stroke-width="3"/>
+    
+    <!-- Bottom right corner -->
+    <line x1="1180" y1="240" x2="1180" y2="280" stroke="#f97316" stroke-width="3"/>
+    <line x1="1140" y1="280" x2="1180" y2="280" stroke="#f97316" stroke-width="3"/>
+  </g>
+
+  <!-- Binary code decoration (subtle) -->
+  <text x="200" y="35" font-family="'Consolas', monospace" font-size="10" fill="#334155" opacity="0.6">
+    01001011 01000001 01010010
+  </text>
+  <text x="900" y="290" font-family="'Consolas', monospace" font-size="10" fill="#334155" opacity="0.6">
+    01000011 01000001 01010100
+  </text>
+</svg>

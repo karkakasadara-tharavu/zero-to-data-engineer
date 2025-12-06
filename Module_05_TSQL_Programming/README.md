@@ -1,3 +1,5 @@
+![Module 05 Header](../assets/images/module_05_header.svg)
+
 # Module 05: T-SQL Programming
 
 **Duration**: 2 weeks (40-60 hours) | **Difficulty**: ⭐⭐⭐⭐ Advanced

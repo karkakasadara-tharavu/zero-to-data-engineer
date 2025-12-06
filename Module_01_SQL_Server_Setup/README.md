@@ -1,3 +1,5 @@
+![Module 01 Header](../assets/images/module_01_header.svg)
+
 # Module 01: SQL Server Installation & Setup
 
 **Duration**: 2 days (6-8 hours total)  

@@ -1,3 +1,5 @@
+![Module 09 Header](../assets/images/module_09_header.svg)
+
 # Module 09: Capstone Project
 
 **Duration**: 4 weeks (80-100 hours) | **Difficulty**: ⭐⭐⭐⭐⭐ Expert

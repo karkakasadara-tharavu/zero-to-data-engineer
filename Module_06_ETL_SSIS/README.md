@@ -1,3 +1,5 @@
+![Module 06 Header](../assets/images/module_06_header.svg)
+
 # Module 06: ETL with SSIS
 
 **Duration**: 2 weeks (40-60 hours) | **Difficulty**: ⭐⭐⭐⭐ Advanced

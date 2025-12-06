@@ -1,3 +1,5 @@
+![Module 04 Header](../assets/images/module_04_header.svg)
+
 # Module 04: Database Administration
 
 **Duration**: 2 weeks (40-60 hours)  

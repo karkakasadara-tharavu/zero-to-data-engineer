@@ -1,8 +1,7 @@
 # 🎓 Complete Data Engineering Curriculum
 ### From Database Fundamentals to Production-Ready Data Engineer
 
-<!-- Optional: Add a custom banner for your learning journey -->
-<!-- Recommended size: 1200x300px -->
+![Karka Kasadara Banner](./assets/images/banner.svg)
 
 ---
 

@@ -1,3 +1,5 @@
+![Module 08 Header](../assets/images/module_08_header.svg)
+
 # Module 08: Power BI Reporting
 
 **Duration**: 2 weeks (40-60 hours) | **Difficulty**: ⭐⭐⭐⭐ Advanced

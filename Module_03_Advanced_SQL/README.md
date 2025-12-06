@@ -1,3 +1,5 @@
+![Module 03 Header](../assets/images/module_03_header.svg)
+
 # Module 03: Advanced SQL
 
 **Duration**: 2 weeks (40-60 hours)  

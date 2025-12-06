@@ -1,3 +1,5 @@
+![Module 02 Header](../assets/images/module_02_header.svg)
+
 # Module 02: SQL Fundamentals
 
 **Duration**: 2 weeks (40-60 hours)  
