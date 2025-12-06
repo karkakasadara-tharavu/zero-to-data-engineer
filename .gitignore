@@ -1,0 +1,63 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# Power BI files (large binaries)
+*.pbix.tmp
+
+# SSIS files (user-specific)
+*.dtproj.user
+*.ispac
+
+# Visual Studio / SQL Server Data Tools
+.vs/
+*.suo
+*.user
+*.sln.docstates
+bin/
+obj/
+*.cache
+
+# SQL Server Management Studio
+*.sql~
+*.sql.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE - VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Personal notes (students can create these)
+*_personal_notes.md
+my_solutions/
+
+# Large dataset files (students download separately)
+*.csv.gz
+*.parquet
+large_datasets/
