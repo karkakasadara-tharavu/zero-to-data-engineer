@@ -1,9 +1,8 @@
 # 🎓 Complete Data Engineering Curriculum
 ### From Database Fundamentals to Production-Ready Data Engineer
 
-<!-- 🎨 PLACEHOLDER: Add your company banner here -->
+<!-- Optional: Add a custom banner for your learning journey -->
 <!-- Recommended size: 1200x300px -->
-<!-- Example: ![Company Banner](./assets/images/banner.png) -->
 
 ---
 
@@ -15,15 +14,15 @@
 
 We believe that **quality education should be accessible to everyone**. Whether you're a fresh BE graduate, a career switcher from mechanical or civil engineering, or a working professional looking to upskill, this curriculum is designed to guide you step-by-step from fundamentals to job-ready expertise.
 
-**Karka Kasadara is not just a curriculum—it's a community.**
+**Karka Kasadara is not just a curriculum—it's a learning journey.**
 
-We envision this as a **forum for collective growth**, where learners not only acquire skills but also contribute back by:
-- 💡 Sharing insights and learnings with peers
-- 🤝 Helping others troubleshoot challenges
-- 🌱 Contributing improvements to this open curriculum
-- 🎯 Mentoring those who are a few steps behind
+This open-source curriculum enables learners to:
+- 💡 Master data engineering skills step-by-step
+- 🤝 Learn from detailed examples and best practices
+- 🌱 Build production-ready projects for your portfolio
+- 🎯 Transform from BE graduate to job-ready professional
 
-**Learn flawlessly. Grow together. Build amazing things with data.**
+**Learn flawlessly. Build amazing things with data.**
 
 ---
 
@@ -119,8 +118,8 @@ All tools used are **free** and industry-standard:
 
 1. **Clone this repository**
    ```powershell
-   git clone https://github.com/your-username/DataEngineer_Curriculum.git
-   cd DataEngineer_Curriculum
+   git clone https://github.com/karkakasadara-tharavu/zero-to-data-engineer.git
+   cd zero-to-data-engineer
    ```
 
 2. **Follow Module 01** for complete installation guide
@@ -184,7 +183,7 @@ DataEngineer_Curriculum/
 │
 ├── assets/                            # Shared resources
 │   ├── images/                        # Diagrams, screenshots
-│   │   └── banner.png                 # 🎨 PLACEHOLDER: Company banner
+│   │   └── banner.png                 # Optional: Custom banner
 │   ├── templates/                     # Document templates
 │   │   ├── lab_report_template.md
 │   │   ├── project_rubric_template.md
@@ -364,27 +363,14 @@ We welcome contributions! Areas where you can help:
 
 Join the **Karka Kasadara community** and connect with fellow data engineering learners:
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/DataEngineer_Curriculum/issues) - Report bugs or request features
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/DataEngineer_Curriculum/discussions) - Ask questions, share insights, celebrate wins
-- **Email**: karkakasadara@yourcompany.com <!-- 🎨 PLACEHOLDER: Replace with your email -->
+- **Issues**: [GitHub Issues](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/issues) - Report bugs or request features
+- **Discussions**: [GitHub Discussions](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions) - Ask questions, share insights, celebrate wins
 
 **Community Values:**
 - 🌱 **Learn together**: No question is too basic
 - 🤝 **Support each other**: Help those behind you on the journey
 - 🎯 **Share knowledge**: Your insights help others succeed
 - 🌍 **Inclusive**: All backgrounds, all experience levels welcome
-
-<!-- 🎨 PLACEHOLDER: Add company logo here -->
-<!-- Recommended size: 200x200px -->
-<!-- Example: ![Company Logo](./assets/images/logo.png) -->
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/DataEngineer_Curriculum/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/DataEngineer_Curriculum/discussions)
-- **Email**: training@yourcompany.com <!-- 🎨 PLACEHOLDER: Replace with your email -->
-
-<!-- 🎨 PLACEHOLDER: Add company logo here -->
-<!-- Recommended size: 200x200px -->
-<!-- Example: ![Company Logo](./assets/images/logo.png) -->
 
 ---
 
@@ -440,5 +426,5 @@ You are free to:
 
 ---
 
-*Last Updated: December 7, 2025*
-*Curriculum maintained by: [Your Company Name]* <!-- 🎨 PLACEHOLDER: Replace with your company name -->
+*Last Updated: December 7, 2025*  
+*Karka Kasadara (கற்க கசடற) - Learn Flawlessly*

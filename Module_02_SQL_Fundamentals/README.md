@@ -379,7 +379,7 @@ You've mastered Module 02 when you can:
 ### Community Support
 
 **Karka Kasadara Community**:
-- 📧 Email: karkakasadara@yourcompany.com
+- 💬 Discussions: https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions
 - 💬 Discord: [Your Discord Link]
 - 💼 LinkedIn: [Your LinkedIn Group]
 - 📖 Forum: [Your Forum Link]

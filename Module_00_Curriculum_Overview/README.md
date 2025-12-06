@@ -154,7 +154,7 @@ After Module 00, you should be able to answer:
 - **Main README**: [Back to curriculum home](../../README.md)
 - **Next Module**: [Module 01 - SQL Server Setup](../Module_01_SQL_Server_Setup/README.md)
 - **Downloads**: [Tool links and installers](../../assets/downloads/tool_links.md)
-- **Discussion Forum**: [Ask questions](https://github.com/your-username/DataEngineer_Curriculum/discussions)
+- **Discussion Forum**: [Ask questions](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions)
 
 ---
 
@@ -182,7 +182,7 @@ This is an orientation module - it's normal to have questions!
 - "Can I skip modules?" → Not recommended, but see learning paths in Section 1
 - "How do I get help when stuck?" → Each module has troubleshooting guides + community support
 
-**Submit Feedback**: [GitHub Issues](https://github.com/your-username/DataEngineer_Curriculum/issues)
+**Submit Feedback**: [GitHub Issues](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/issues)
 
 ---
 

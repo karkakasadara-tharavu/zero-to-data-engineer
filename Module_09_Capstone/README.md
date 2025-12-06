@@ -291,8 +291,8 @@ CREATE TABLE DimCustomer (
 
 ## 📖 Resources
 
-- [Submit Project](mailto:support@karkakasadara.com)
-- [Community Forum](https://github.com/karkakasadara/data-engineering/discussions)
+- [GitHub Repository](https://github.com/karkakasadara-tharavu/zero-to-data-engineer)
+- [Report Issues](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/issues)
 - [Job Search Guide](../Module_00_Curriculum_Overview/04_career_roadmap.md)
 - [Resume Template](../assets/templates/resume_template.md)
 

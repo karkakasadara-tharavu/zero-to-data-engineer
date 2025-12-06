@@ -573,7 +573,7 @@ In the next section, you'll install SQL Server Management Studio (SSMS) - your g
 
 ---
 
-**Need Help?** See [Troubleshooting Guide](./05_troubleshooting.md) or ask in [GitHub Discussions](https://github.com/your-username/DataEngineer_Curriculum/discussions)
+**Need Help?** See [Troubleshooting Guide](./05_troubleshooting.md) or ask in [GitHub Discussions](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions)
 
 ---
 

@@ -217,16 +217,15 @@ This curriculum is open-source. Contributions welcome:
 - Translate to other languages
 - Share success stories
 
-**GitHub**: github.com/karkakasadara/data-engineering-curriculum
+**GitHub**: https://github.com/karkakasadara-tharavu/zero-to-data-engineer
 
 ---
 
 ## 📧 Support
 
-- **Community Forum**: GitHub Discussions
-- **Email**: support@karkakasadara.com
-- **LinkedIn**: #KarkaKasadara
-- **Twitter**: @KarkaKasadara
+- **GitHub Issues**: https://github.com/karkakasadara-tharavu/zero-to-data-engineer/issues
+- **GitHub Discussions**: https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions
+- **Share**: #KarkaKasadara #DataEngineering
 
 ---
 

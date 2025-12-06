@@ -275,7 +275,7 @@ A: **No**, SQL Server 2019 works fine for this curriculum. But 2022 has improvem
    - Check: Microsoft Docs, Stack Overflow, Reddit r/SQLServer
 
 4. **Ask for Help**
-   - [GitHub Discussions](https://github.com/your-username/DataEngineer_Curriculum/discussions)
+   - [GitHub Discussions](https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions)
    - Include: Windows version, error message, screenshots
    - What you've already tried
 
@@ -300,7 +300,7 @@ A: **No**, SQL Server 2019 works fine for this curriculum. But 2022 has improvem
 
 **Karka Kasadara Community**:
 - GitHub Discussions: [Link to your discussions]
-- Email: karkakasadara@yourcompany.com
+- GitHub Issues: https://github.com/karkakasadara-tharavu/zero-to-data-engineer/issues
 
 ---
 

@@ -1020,7 +1020,7 @@ Get-Content "C:\Program Files\Microsoft SQL Server\MSSQL16.SQLEXPRESS\MSSQL\Log\
 ### Step 3: Community Support
 
 **Karka Kasadara Community Forum**:  
-📧 Email: karkakasadara@yourcompany.com  
+💬 GitHub Discussions: https://github.com/karkakasadara-tharavu/zero-to-data-engineer/discussions  
 💬 Discord: [Your Discord Link]  
 💼 LinkedIn: [Your LinkedIn Group]
 
