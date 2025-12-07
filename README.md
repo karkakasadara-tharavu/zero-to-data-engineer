@@ -45,13 +45,13 @@ A comprehensive, hands-on curriculum designed to transform BE graduates into **j
 | **[00](./Module_00_Curriculum_Overview/)** | Curriculum Overview & Prerequisites | 1 day | ⭐ Beginner | 📘 Orientation |
 | **[01](./Module_01_SQL_Server_Setup/)** | SQL Server Installation & Configuration | 2 days | ⭐ Beginner | 🛠️ Setup |
 | **[02](./Module_02_SQL_Fundamentals/)** | SQL Fundamentals (SELECT, JOIN, Aggregations) | 2 weeks | ⭐⭐ Beginner-Intermediate | 📖 Core Skills |
-| **[03](./Module_03_SQL_Advanced/)** | Advanced SQL (CTEs, Window Functions, Performance) | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 🚀 Advanced |
+| **[03](./Module_03_Advanced_SQL/)** | Advanced SQL (CTEs, Window Functions, Performance) | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 🚀 Advanced |
 | **[04](./Module_04_Database_Administration/)** | Database Design & Administration | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 🔧 DBA Skills |
 | **[05](./Module_05_TSQL_Programming/)** | T-SQL Programming (Procedures, Functions, Triggers) | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 💻 Programming |
-| **[06](./Module_06_ETL_SSIS_Fundamentals/)** | ETL with SSIS Fundamentals | 2 weeks | ⭐⭐⭐ Intermediate | 📦 Data Integration |
-| **[07](./Module_07_Advanced_ETL_Patterns/)** | Advanced ETL Patterns & CDC | 2 weeks | ⭐⭐⭐⭐ Advanced | 🔄 Production ETL |
-| **[08](./Module_08_PowerBI_Reporting/)** | Power BI Reporting & Analytics | 2 weeks | ⭐⭐⭐ Intermediate | 📊 Visualization |
-| **[09](./Module_09_Capstone_Project/)** | Capstone: End-to-End Data Warehouse | 2 weeks | ⭐⭐⭐⭐ Expert | 🎯 Portfolio Project |
+| **[06](./Module_06_ETL_SSIS/)** | ETL with SSIS Fundamentals | 2 weeks | ⭐⭐⭐ Intermediate | 📦 Data Integration |
+| **[07](./Module_07_Advanced_ETL/)** | Advanced ETL Patterns & CDC | 2 weeks | ⭐⭐⭐⭐ Advanced | 🔄 Production ETL |
+| **[08](./Module_08_PowerBI/)** | Power BI Reporting & Analytics | 2 weeks | ⭐⭐⭐ Intermediate | 📊 Visualization |
+| **[09](./Module_09_Capstone/)** | Capstone: End-to-End Data Warehouse | 2 weeks | ⭐⭐⭐⭐ Expert | 🎯 Portfolio Project |
 
 ---
 
@@ -246,7 +246,7 @@ DataEngineer_Curriculum/
 │   ├── labs/
 │   └── solutions/
 │
-├── Module_06_ETL_SSIS_Fundamentals/
+├── Module_06_ETL_SSIS/
 │   ├── README.md
 │   ├── 01_ssis_architecture.md
 │   ├── 02_control_flow.md
@@ -255,7 +255,7 @@ DataEngineer_Curriculum/
 │   ├── projects/                      # SSIS package samples
 │   └── solutions/
 │
-├── Module_07_Advanced_ETL_Patterns/
+├── Module_07_Advanced_ETL/
 │   ├── README.md
 │   ├── 01_change_data_capture.md
 │   ├── 02_incremental_loads.md
@@ -264,7 +264,7 @@ DataEngineer_Curriculum/
 │   ├── projects/
 │   └── solutions/
 │
-├── Module_08_PowerBI_Reporting/
+├── Module_08_PowerBI/
 │   ├── README.md
 │   ├── 01_data_modeling.md
 │   ├── 02_dax_fundamentals.md
@@ -273,7 +273,7 @@ DataEngineer_Curriculum/
 │   ├── pbix_files/                    # Sample reports
 │   └── solutions/
 │
-└── Module_09_Capstone_Project/
+└── Module_09_Capstone/
     ├── README.md
     ├── 01_project_requirements.md
     ├── 02_architecture_design.md

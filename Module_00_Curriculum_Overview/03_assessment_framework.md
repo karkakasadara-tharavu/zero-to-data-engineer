@@ -330,7 +330,7 @@ The **capstone project** is your portfolio centerpiece - a **complete data wareh
 
 **Passing Score**: 85% (212.5/250 points)
 
-**Detailed Rubric Available**: See [Module 09 - Evaluation Rubric](../Module_09_Capstone_Project/04_evaluation_rubric.md)
+**Detailed Rubric Available**: See [Module 09 - Evaluation Rubric](../Module_09_Capstone/04_evaluation_rubric.md)
 
 ---
 
