@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="pyGradient17" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c2d12;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#9a3412;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7c2d12;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pyPattern17" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="#ffffff" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1000" height="120" fill="url(#pyGradient17)"/>
+  <rect width="1000" height="120" fill="url(#pyPattern17)"/>
+  
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="120" fill="#f97316"/>
+  
+  <!-- Capstone - trophy/achievement symbol -->
+  <g transform="translate(40, 25)">
+    <!-- Trophy -->
+    <rect x="20" y="45" width="20" height="8" fill="#fbbf24" opacity="0.9"/>
+    <rect x="25" y="53" width="10" height="10" fill="#fbbf24" opacity="0.9"/>
+    <rect x="20" y="63" width="20" height="3" fill="#fbbf24" opacity="0.9"/>
+    <path d="M 15 45 Q 10 35 15 25 L 20 25 L 20 45 Z" fill="#fb923c" opacity="0.9"/>
+    <path d="M 45 45 Q 50 35 45 25 L 40 25 L 40 45 Z" fill="#fb923c" opacity="0.9"/>
+    <ellipse cx="30" cy="25" rx="15" ry="12" fill="#f97316" opacity="0.9"/>
+    
+    <!-- Star -->
+    <polygon points="30,10 32,16 38,16 33,20 35,26 30,22 25,26 27,20 22,16 28,16" fill="#fbbf24" opacity="0.9"/>
+  </g>
+  
+  <!-- Module number -->
+  <text x="120" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" opacity="0.9">
+    MODULE 17
+  </text>
+  
+  <!-- Module title -->
+  <text x="120" y="75" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">
+    Python Capstone Project
+  </text>
+  
+  <!-- Tamil motto on right -->
+  <text x="920" y="45" font-family="Arial, sans-serif" font-size="16" fill="#f97316" text-anchor="end" font-weight="bold">
+    கற்க கசடற
+  </text>
+  <text x="920" y="68" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" opacity="0.8">
+    Learn Flawlessly
+  </text>
+  
+  <!-- Decorative code symbols -->
+  <g opacity="0.2" fill="#ffffff">
+    <text x="620" y="95" font-family="monospace" font-size="14">// End-to-End Pipeline</text>
+    <text x="750" y="30" font-family="monospace" font-size="14">ETL Complete</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="112" width="1000" height="8" fill="#f97316" opacity="0.5"/>
+</svg>

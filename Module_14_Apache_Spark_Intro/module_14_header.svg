@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="pyGradient14" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ef4444;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pyPattern14" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="#ffffff" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1000" height="120" fill="url(#pyGradient14)"/>
+  <rect width="1000" height="120" fill="url(#pyPattern14)"/>
+  
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="120" fill="#f97316"/>
+  
+  <!-- Spark logo inspired -->
+  <g transform="translate(40, 30)">
+    <!-- Lightning bolt for Spark -->
+    <polygon points="25,0 15,30 30,30 20,60" fill="#f97316" opacity="0.9"/>
+    <polygon points="22,5 17,25 27,25 23,50" fill="#fbbf24" opacity="0.9"/>
+    
+    <!-- Distributed nodes -->
+    <circle cx="50" cy="15" r="5" fill="#ffffff" opacity="0.8"/>
+    <circle cx="55" cy="35" r="5" fill="#ffffff" opacity="0.8"/>
+    <circle cx="45" cy="45" r="5" fill="#ffffff" opacity="0.8"/>
+  </g>
+  
+  <!-- Module number -->
+  <text x="120" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" opacity="0.9">
+    MODULE 14
+  </text>
+  
+  <!-- Module title -->
+  <text x="120" y="75" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">
+    Apache Spark Introduction
+  </text>
+  
+  <!-- Tamil motto on right -->
+  <text x="920" y="45" font-family="Arial, sans-serif" font-size="16" fill="#f97316" text-anchor="end" font-weight="bold">
+    கற்க கசடற
+  </text>
+  <text x="920" y="68" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" opacity="0.8">
+    Learn Flawlessly
+  </text>
+  
+  <!-- Decorative code symbols -->
+  <g opacity="0.2" fill="#ffffff">
+    <text x="640" y="95" font-family="monospace" font-size="14">spark = SparkSession.builder</text>
+    <text x="770" y="30" font-family="monospace" font-size="14">RDD.map()</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="112" width="1000" height="8" fill="#f97316" opacity="0.5"/>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="grad06" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0e7490;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0891b2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0e7490;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pattern06" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="#ffffff" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1000" height="120" fill="url(#grad06)"/>
+  <rect width="1000" height="120" fill="url(#pattern06)"/>
+  
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="120" fill="#f97316"/>
+  
+  <!-- ETL Pipeline icon -->
+  <g transform="translate(40, 30)">
+    <rect x="0" y="20" width="15" height="20" fill="#f97316" opacity="0.9" rx="2"/>
+    <polygon points="20,30 30,25 30,35" fill="#fbbf24" opacity="0.9"/>
+    <rect x="35" y="20" width="15" height="20" fill="#fb923c" opacity="0.9" rx="2"/>
+    <polygon points="55,30 65,25 65,35" fill="#fbbf24" opacity="0.9"/>
+    <rect x="70" y="20" width="15" height="20" fill="#f97316" opacity="0.9" rx="2"/>
+    <text x="7" y="35" font-family="Arial" font-size="10" fill="#ffffff" font-weight="bold">E</text>
+    <text x="42" y="35" font-family="Arial" font-size="10" fill="#ffffff" font-weight="bold">T</text>
+    <text x="77" y="35" font-family="Arial" font-size="10" fill="#ffffff" font-weight="bold">L</text>
+  </g>
+  
+  <!-- Module number -->
+  <text x="120" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" opacity="0.9">
+    MODULE 06
+  </text>
+  
+  <!-- Module title -->
+  <text x="120" y="75" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">
+    ETL with SSIS
+  </text>
+  
+  <!-- Tamil motto on right -->
+  <text x="920" y="45" font-family="Arial, sans-serif" font-size="16" fill="#f97316" text-anchor="end" font-weight="bold">
+    கற்க கசடற
+  </text>
+  <text x="920" y="68" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" opacity="0.8">
+    Learn Flawlessly
+  </text>
+  
+  <!-- Decorative elements -->
+  <g opacity="0.2" fill="#ffffff">
+    <text x="640" y="95" font-family="monospace" font-size="14">EXTRACT → TRANSFORM → LOAD</text>
+    <text x="780" y="30" font-family="monospace" font-size="14">PACKAGE</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="112" width="1000" height="8" fill="#f97316" opacity="0.5"/>
+</svg>

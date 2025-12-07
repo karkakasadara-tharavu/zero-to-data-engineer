@@ -1,0 +1,20 @@
+Alice Johnson|alice.johnson@email.com|555-0100|New York|Premium
+Bob Smith|bob.smith@email.com|555-0101|Los Angeles|Standard
+Charlie Brown|charlie.brown@email.com|555-0102|Chicago|Premium
+Diana Prince|diana.prince@email.com|555-0103|Houston|Standard
+Eve Adams|eve.adams@email.com|555-0104|Phoenix|Premium
+Frank Miller|frank.miller@email.com|555-0105|Philadelphia|Standard
+Grace Lee|grace.lee@email.com|555-0106|San Antonio|Premium
+Henry Davis|henry.davis@email.com|555-0107|San Diego|Standard
+Iris Chen|iris.chen@email.com|555-0108|Dallas|Premium
+Jack Wilson|jack.wilson@email.com|555-0109|San Jose|Standard
+Kate Moore|kate.moore@email.com|555-0110|Austin|Premium
+Leo Martinez|leo.martinez@email.com|555-0111|Jacksonville|Standard
+Maria Garcia|maria.garcia@email.com|555-0112|Fort Worth|Premium
+Nathan Taylor|nathan.taylor@email.com|555-0113|Columbus|Standard
+Olivia Anderson|olivia.anderson@email.com|555-0114|Charlotte|Premium
+Paul Thomas|paul.thomas@email.com|555-0115|Indianapolis|Standard
+Quinn Jackson|quinn.jackson@email.com|555-0116|San Francisco|Premium
+Rachel White|rachel.white@email.com|555-0117|Seattle|Standard
+Sam Harris|sam.harris@email.com|555-0118|Denver|Premium
+Tina Clark|tina.clark@email.com|555-0119|Washington|Standard

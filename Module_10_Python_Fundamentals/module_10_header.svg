@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="pyGradient10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e3a8a;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pyPattern10" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1" fill="#ffffff" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="1000" height="120" fill="url(#pyGradient10)"/>
+  <rect width="1000" height="120" fill="url(#pyPattern10)"/>
+  
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="120" fill="#f97316"/>
+  
+  <!-- Python logo inspired design -->
+  <g transform="translate(40, 35)">
+    <!-- Python snake symbol simplified -->
+    <path d="M 25 25 Q 15 15 25 5 Q 35 -5 45 5 L 45 35 Q 35 45 25 35 Z" fill="#3776ab" opacity="0.9"/>
+    <path d="M 25 25 Q 35 35 25 45 Q 15 55 5 45 L 5 15 Q 15 5 25 15 Z" fill="#ffd343" opacity="0.9"/>
+    <circle cx="25" cy="15" r="3" fill="#ffffff"/>
+    <circle cx="25" cy="35" r="3" fill="#ffffff"/>
+  </g>
+  
+  <!-- Module number -->
+  <text x="120" y="45" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" opacity="0.9">
+    MODULE 10
+  </text>
+  
+  <!-- Module title -->
+  <text x="120" y="75" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#ffffff">
+    Python Fundamentals
+  </text>
+  
+  <!-- Tamil motto on right -->
+  <text x="920" y="45" font-family="Arial, sans-serif" font-size="16" fill="#f97316" text-anchor="end" font-weight="bold">
+    கற்க கசடற
+  </text>
+  <text x="920" y="68" font-family="Arial, sans-serif" font-size="12" fill="#ffffff" text-anchor="end" opacity="0.8">
+    Learn Flawlessly
+  </text>
+  
+  <!-- Decorative code symbols -->
+  <g opacity="0.2" fill="#ffffff">
+    <text x="750" y="95" font-family="monospace" font-size="14">def learn():</text>
+    <text x="820" y="30" font-family="monospace" font-size="14">for i in range():</text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="112" width="1000" height="8" fill="#f97316" opacity="0.5"/>
+</svg>

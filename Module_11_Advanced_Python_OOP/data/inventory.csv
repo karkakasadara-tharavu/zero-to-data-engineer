@@ -1,0 +1,53 @@
+product_id,name,category,subcategory,price,cost,stock_quantity,supplier,brand,weight_kg,sku,barcode,reorder_level,is_active
+P1001,Wireless Mouse,Electronics,Computer Accessories,29.99,12.50,150,TechSupply Co,TechBrand,0.15,WM-TB-001,123456789012,20,true
+P1002,USB-C Cable 2m,Electronics,Cables & Adapters,15.99,5.25,300,CableWorld,UniCable,0.08,UC-2M-002,123456789013,50,true
+P1003,Mechanical Keyboard,Electronics,Computer Accessories,89.99,42.00,75,TechSupply Co,KeyMaster,1.2,MK-KM-003,123456789014,15,true
+P1004,27" Monitor,Electronics,Displays,349.99,189.00,45,DisplayTech,ViewPro,5.8,MON-VP-004,123456789015,10,true
+P1005,Laptop Stand,Electronics,Computer Accessories,39.99,18.50,120,ErgoSupplies,ErgoDesk,0.95,LS-ED-005,123456789016,25,true
+P1006,Webcam HD,Electronics,Computer Accessories,69.99,32.00,85,TechSupply Co,VisionCam,0.25,WC-VC-006,123456789017,20,true
+P1007,Desk Lamp LED,Home & Office,Lighting,34.99,16.75,200,LightHouse,BrightLight,0.6,DL-BL-007,123456789018,30,true
+P1008,Office Chair,Home & Office,Furniture,199.99,95.00,30,FurniturePro,ComfortSeat,12.5,OC-CS-008,123456789019,8,true
+P1009,Standing Desk,Home & Office,Furniture,449.99,225.00,20,FurniturePro,DeskMaster,28.0,SD-DM-009,123456789020,5,true
+P1010,Wireless Headphones,Electronics,Audio,79.99,38.50,110,AudioWorld,SoundWave,0.22,WH-SW-010,123456789021,25,true
+P1011,Bluetooth Speaker,Electronics,Audio,49.99,22.75,95,AudioWorld,BassBoom,0.45,BS-BB-011,123456789022,20,true
+P1012,External SSD 1TB,Electronics,Storage,129.99,68.00,60,TechSupply Co,SpeedDrive,0.15,SSD-SD-012,123456789023,15,true
+P1013,USB Hub 4-Port,Electronics,Computer Accessories,24.99,9.50,180,CableWorld,HubConnect,0.12,UH-HC-013,123456789024,35,true
+P1014,Phone Stand,Electronics,Mobile Accessories,19.99,7.25,250,ErgoSupplies,PhoneHold,0.18,PS-PH-014,123456789025,40,true
+P1015,Cable Organizer,Electronics,Computer Accessories,12.99,4.50,300,CableWorld,TidyCable,0.05,CO-TC-015,123456789026,50,true
+P1016,Laptop Sleeve 15",Electronics,Computer Accessories,29.99,12.00,140,BagWorld,SafeCase,0.35,LS15-SC-016,123456789027,30,true
+P1017,Mouse Pad XL,Electronics,Computer Accessories,19.99,6.75,220,ErgoSupplies,DeskMat,0.28,MP-DM-017,123456789028,40,true
+P1018,Screen Cleaner Kit,Electronics,Cleaning,14.99,5.25,175,CleanTech,SparkleScreen,0.15,SC-SS-018,123456789029,35,true
+P1019,Surge Protector 6-Outlet,Electronics,Power,34.99,15.50,130,PowerSafe,VoltGuard,0.65,SP-VG-019,123456789030,25,true
+P1020,Webcam Cover,Electronics,Security,9.99,2.75,400,PrivacyPlus,CamShield,0.01,WCC-CS-020,123456789031,75,true
+P1021,Wrist Rest,Electronics,Computer Accessories,16.99,6.50,190,ErgoSupplies,ComfortRest,0.22,WR-CR-021,123456789032,35,true
+P1022,HDMI Cable 3m,Electronics,Cables & Adapters,18.99,7.25,260,CableWorld,VideoLink,0.15,HC-VL-022,123456789033,45,true
+P1023,Network Cable Cat6 5m,Electronics,Cables & Adapters,12.99,4.50,280,CableWorld,NetConnect,0.18,NC-NC-023,123456789034,50,true
+P1024,Monitor Arm,Electronics,Computer Accessories,89.99,42.50,55,ErgoSupplies,FlexiArm,2.8,MA-FA-024,123456789035,12,true
+P1025,Portable Charger 20000mAh,Electronics,Power,39.99,18.75,105,PowerSafe,ChargePro,0.38,PC-CP-025,123456789036,25,true
+P1026,USB Flash Drive 64GB,Electronics,Storage,19.99,8.50,320,TechSupply Co,DataStick,0.01,FD-DS-026,123456789037,60,true
+P1027,Smartphone Case,Electronics,Mobile Accessories,24.99,9.75,200,MobilePlus,ProtectCase,0.08,SC-PC-027,123456789038,40,true
+P1028,Tablet Stand,Electronics,Mobile Accessories,34.99,14.50,90,ErgoSupplies,TabletHold,0.42,TS-TH-028,123456789039,20,true
+P1029,Wireless Charger,Electronics,Power,29.99,13.25,125,PowerSafe,QiCharge,0.15,WC-QC-029,123456789040,30,true
+P1030,Drawing Tablet,Electronics,Computer Accessories,149.99,72.00,40,TechSupply Co,ArtPad,0.95,DT-AP-030,123456789041,10,true
+P1031,Desk Organizer,Home & Office,Organization,22.99,9.50,155,ErgoSupplies,TidyDesk,0.55,DO-TD-031,123456789042,30,true
+P1032,Filing Cabinet,Home & Office,Furniture,179.99,89.00,25,FurniturePro,FileSafe,18.5,FC-FS-032,123456789043,5,true
+P1033,Whiteboard 48x36,Home & Office,Office Supplies,79.99,38.50,35,OfficeMax,WriteBoard,4.2,WB-WB-033,123456789044,8,true
+P1034,Desk Calendar,Home & Office,Office Supplies,14.99,5.75,280,PaperCo,PlanYear,0.35,DC-PY-034,123456789045,50,true
+P1035,Stapler Heavy Duty,Home & Office,Office Supplies,24.99,10.50,165,OfficeMax,StapleMaster,0.42,ST-SM-035,123456789046,35,true
+P1036,Paper Shredder,Home & Office,Office Equipment,89.99,42.00,45,SecureOffice,ShredSafe,5.5,PS-SS-036,123456789047,10,true
+P1037,Label Maker,Home & Office,Office Equipment,49.99,22.75,70,OfficeMax,LabelPro,0.38,LM-LP-037,123456789048,15,true
+P1038,Desk Fan,Home & Office,Climate Control,34.99,15.50,95,ComfortZone,CoolBreeze,1.2,DF-CB-038,123456789049,20,true
+P1039,Bookshelf 5-Tier,Home & Office,Furniture,129.99,62.00,30,FurniturePro,BookKeeper,15.8,BS-BK-039,123456789050,8,true
+P1040,Task Light,Home & Office,Lighting,44.99,20.50,80,LightHouse,FocusLight,0.75,TL-FL-040,123456789051,18,true
+P1041,Coffee Mug Warmer,Home & Office,Kitchen,19.99,8.25,145,ComfortZone,WarmSip,0.28,CM-WS-041,123456789052,30,true
+P1042,Air Purifier Desktop,Home & Office,Climate Control,69.99,32.50,55,ComfortZone,FreshAir,1.8,AP-FA-042,123456789053,12,true
+P1043,Noise Cancelling Headset,Electronics,Audio,129.99,62.00,65,AudioWorld,QuietZone,0.32,NC-QZ-043,123456789054,15,true
+P1044,Conference Microphone,Electronics,Audio,179.99,88.00,30,AudioWorld,MeetSound,0.85,CM-MS-044,123456789055,8,true
+P1045,Presentation Remote,Electronics,Computer Accessories,34.99,15.75,90,TechSupply Co,PresenterPro,0.08,PR-PP-045,123456789056,20,true
+P1046,Document Scanner,Electronics,Office Equipment,199.99,98.00,35,ScanTech,QuickScan,2.2,DS-QS-046,123456789057,8,true
+P1047,Wireless Keyboard & Mouse Combo,Electronics,Computer Accessories,59.99,28.50,85,TechSupply Co,ComboTech,0.85,KM-CT-047,123456789058,18,true
+P1048,Gaming Mouse RGB,Electronics,Computer Accessories,49.99,22.75,95,TechSupply Co,GamerPro,0.18,GM-GP-048,123456789059,20,true
+P1049,USB Microphone,Electronics,Audio,79.99,38.00,60,AudioWorld,VoiceClear,0.45,UM-VC-049,123456789060,15,true
+P1050,Ring Light,Electronics,Lighting,44.99,20.50,75,LightHouse,GlowPro,0.95,RL-GP-050,123456789061,18,true
+P2001,Vintage Desk Lamp,Home & Office,Lighting,89.99,45.00,15,RetroStyle,ClassicLight,1.2,VDL-CL-051,123456789062,5,false
+P2002,Leather Portfolio,Home & Office,Organization,69.99,32.50,25,ExecutiveGear,ProfCase,0.85,LP-PC-052,123456789063,8,false

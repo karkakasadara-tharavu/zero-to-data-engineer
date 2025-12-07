@@ -1,0 +1,189 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Laptop Pro 15",
+      "category": "Electronics",
+      "brand": "TechCorp",
+      "price": 1200.00,
+      "stock": 45,
+      "specifications": {
+        "processor": "Intel Core i7",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "screen": "15.6 inch"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 230
+      }
+    },
+    {
+      "id": "P002",
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "brand": "ClickMaster",
+      "price": 25.00,
+      "stock": 150,
+      "specifications": {
+        "connection": "Bluetooth",
+        "battery": "AAA x 2",
+        "buttons": 5,
+        "dpi": "1600"
+      },
+      "ratings": {
+        "average": 4.2,
+        "count": 450
+      }
+    },
+    {
+      "id": "P003",
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "brand": "KeyPro",
+      "price": 75.00,
+      "stock": 80,
+      "specifications": {
+        "switches": "Cherry MX Blue",
+        "backlight": "RGB",
+        "layout": "Full Size",
+        "cable": "Braided USB-C"
+      },
+      "ratings": {
+        "average": 4.7,
+        "count": 320
+      }
+    },
+    {
+      "id": "P004",
+      "name": "4K Monitor 27\"",
+      "category": "Electronics",
+      "brand": "ViewMaster",
+      "price": 300.00,
+      "stock": 60,
+      "specifications": {
+        "resolution": "3840x2160",
+        "refresh_rate": "60Hz",
+        "panel": "IPS",
+        "ports": ["HDMI", "DisplayPort", "USB-C"]
+      },
+      "ratings": {
+        "average": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": "P005",
+      "name": "Gaming Headset",
+      "category": "Accessories",
+      "brand": "SoundWave",
+      "price": 50.00,
+      "stock": 120,
+      "specifications": {
+        "driver": "50mm",
+        "connection": "USB",
+        "microphone": "Detachable",
+        "surround": "7.1 Virtual"
+      },
+      "ratings": {
+        "average": 4.3,
+        "count": 280
+      }
+    },
+    {
+      "id": "P006",
+      "name": "Webcam HD",
+      "category": "Electronics",
+      "brand": "CamPro",
+      "price": 80.00,
+      "stock": 90,
+      "specifications": {
+        "resolution": "1080p",
+        "fps": "30",
+        "autofocus": true,
+        "microphone": "Built-in stereo"
+      },
+      "ratings": {
+        "average": 4.4,
+        "count": 150
+      }
+    },
+    {
+      "id": "P007",
+      "name": "USB-C Hub",
+      "category": "Accessories",
+      "brand": "HubMaster",
+      "price": 40.00,
+      "stock": 200,
+      "specifications": {
+        "ports": ["HDMI", "USB 3.0 x3", "SD Card", "Ethernet"],
+        "power_delivery": "100W",
+        "cable_length": "15cm"
+      },
+      "ratings": {
+        "average": 4.5,
+        "count": 220
+      }
+    },
+    {
+      "id": "P008",
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "brand": "ErgoDesk",
+      "price": 35.00,
+      "stock": 110,
+      "specifications": {
+        "material": "Aluminum",
+        "adjustable": true,
+        "angles": "0-45 degrees",
+        "weight_capacity": "10kg"
+      },
+      "ratings": {
+        "average": 4.6,
+        "count": 190
+      }
+    },
+    {
+      "id": "P009",
+      "name": "External SSD 1TB",
+      "category": "Electronics",
+      "brand": "StoragePlus",
+      "price": 120.00,
+      "stock": 75,
+      "specifications": {
+        "capacity": "1TB",
+        "interface": "USB 3.2 Gen 2",
+        "speed_read": "1050 MB/s",
+        "speed_write": "1000 MB/s"
+      },
+      "ratings": {
+        "average": 4.8,
+        "count": 340
+      }
+    },
+    {
+      "id": "P010",
+      "name": "Desk Lamp LED",
+      "category": "Accessories",
+      "brand": "BrightLight",
+      "price": 45.00,
+      "stock": 130,
+      "specifications": {
+        "brightness": "800 lumens",
+        "color_temp": "3000K-6500K",
+        "power": "10W",
+        "features": ["Touch control", "USB charging port"]
+      },
+      "ratings": {
+        "average": 4.4,
+        "count": 160
+      }
+    }
+  ],
+  "metadata": {
+    "last_updated": "2024-01-30",
+    "version": "1.0",
+    "currency": "USD",
+    "total_products": 10
+  }
+}
