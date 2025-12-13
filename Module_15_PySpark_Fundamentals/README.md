@@ -1,6 +1,12 @@
+![Module 15 Header](../assets/images/module_15_header.svg)
+
 # Module 15: PySpark Fundamentals
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐⭐ Advanced  
+**Prerequisites**: Module 14 - Apache Spark Introduction
+
+---
 
 ## Overview
 

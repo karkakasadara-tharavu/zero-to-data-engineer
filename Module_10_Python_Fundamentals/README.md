@@ -1,3 +1,5 @@
+![Module 10 Header](../assets/images/module_10_header.svg)
+
 # Module 10: Python Fundamentals
 
 **Duration**: 2 weeks (40-50 hours)  

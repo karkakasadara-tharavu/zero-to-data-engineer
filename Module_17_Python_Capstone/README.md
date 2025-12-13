@@ -1,6 +1,12 @@
+![Module 17 Header](../assets/images/module_17_header.svg)
+
 # Module 17: Python Data Engineering Capstone Project
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 3-4 weeks (60-80 hours)  
+**Difficulty**: ⭐⭐⭐⭐⭐ Expert  
+**Prerequisites**: Modules 10-16 (Complete Python Track)
+
+---
 
 ## Overview
 

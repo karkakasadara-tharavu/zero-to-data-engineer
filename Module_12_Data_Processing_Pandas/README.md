@@ -1,6 +1,12 @@
+![Module 12 Header](../assets/images/module_12_header.svg)
+
 # Module 12: Data Processing with Pandas
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐ Intermediate  
+**Prerequisites**: Module 10, Module 11
+
+---
 
 ## Overview
 

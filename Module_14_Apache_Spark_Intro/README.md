@@ -1,6 +1,12 @@
+![Module 14 Header](../assets/images/module_14_header.svg)
+
 # Module 14: Apache Spark Introduction
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐⭐ Advanced  
+**Prerequisites**: Modules 10-13 (Python Track)
+
+---
 
 ## Overview
 

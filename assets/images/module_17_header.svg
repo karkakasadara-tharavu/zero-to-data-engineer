@@ -1,14 +1,14 @@
 <svg width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad08" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="grad17" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#1e293b"/>
       <stop offset="100%" style="stop-color:#334155"/>
     </linearGradient>
   </defs>
-  <rect width="1000" height="120" fill="url(#grad08)"/>
+  <rect width="1000" height="120" fill="url(#grad17)"/>
   <rect x="0" y="0" width="1000" height="4" fill="#eab308"/>
   <circle cx="45" cy="60" r="30" fill="none" stroke="#eab308" stroke-width="2" opacity="0.5"/>
-  <text x="90" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Module 08: Power BI</text>
-  <text x="90" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#94a3b8">Data Visualization and Business Intelligence</text>
+  <text x="90" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Module 17: Python Capstone Project</text>
+  <text x="90" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#94a3b8">End-to-End Data Pipeline Implementation</text>
   <text x="960" y="110" font-family="Arial, sans-serif" font-size="10" fill="#eab308" text-anchor="end" opacity="0.7">Zero to Data Engineer</text>
 </svg>

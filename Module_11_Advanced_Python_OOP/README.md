@@ -1,6 +1,12 @@
+![Module 11 Header](../assets/images/module_11_header.svg)
+
 # Module 11: Advanced Python & OOP
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐ Intermediate  
+**Prerequisites**: Module 10 - Python Fundamentals
+
+---
 
 ## Overview
 

@@ -1,6 +1,12 @@
+![Module 13 Header](../assets/images/module_13_header.svg)
+
 # Module 13: Python + SQL Integration
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐⭐ Advanced  
+**Prerequisites**: Modules 10-12, SQL Track Recommended
+
+---
 
 ## Overview
 

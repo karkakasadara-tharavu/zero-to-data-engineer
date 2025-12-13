@@ -1,6 +1,12 @@
+![Module 16 Header](../assets/images/module_16_header.svg)
+
 # Module 16: Advanced PySpark
 
-**கற்க கசடற - Learn Flawlessly**
+**Duration**: 2 weeks (40-50 hours)  
+**Difficulty**: ⭐⭐⭐⭐ Expert  
+**Prerequisites**: Module 15 - PySpark Fundamentals
+
+---
 
 ## Overview
 
