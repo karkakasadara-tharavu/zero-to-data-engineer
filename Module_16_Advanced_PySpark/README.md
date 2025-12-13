@@ -37,11 +37,11 @@ Welcome to **Module 16: Advanced PySpark**! This module takes your PySpark skill
 
 | File | Topic |
 |------|-------|
-| [01_udfs.md](./theory/01_udfs.md) | User Defined Functions (UDFs) |
-| [02_performance.md](./theory/02_performance.md) | Performance Optimization |
-| [03_spark_sql.md](./theory/03_spark_sql.md) | Advanced Spark SQL |
-| [04_delta_lake.md](./theory/04_delta_lake.md) | Delta Lake (ACID, MERGE, Time Travel) |
-| [05_spark_streaming.md](./theory/05_spark_streaming.md) | Spark Structured Streaming |
+| [01_udfs.md](./01_udfs.md) | User Defined Functions (UDFs) |
+| [02_performance.md](./02_performance.md) | Performance Optimization |
+| [03_spark_sql.md](./03_spark_sql.md) | Advanced Spark SQL |
+| [04_delta_lake.md](./04_delta_lake.md) | Delta Lake (ACID, MERGE, Time Travel) |
+| [05_spark_streaming.md](./05_spark_streaming.md) | Spark Structured Streaming |
 
 ### Labs
 1. Complex window functions

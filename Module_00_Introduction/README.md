@@ -1,3 +1,5 @@
+![Module 00 Header](../assets/images/module_00_header.svg)
+
 # Module 00: Introduction to Data Engineering
 
 ## 📚 Overview

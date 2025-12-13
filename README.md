@@ -201,106 +201,28 @@ DataEngineer_Curriculum/
 ├── LICENSE                            # MIT License
 ├── .gitignore                         # Git ignore rules
 │
-├── assets/                            # Shared resources
-│   ├── images/                        # Diagrams, screenshots
-│   │   └── banner.png                 # Optional: Custom banner
-│   ├── templates/                     # Document templates
-│   │   ├── lab_report_template.md
-│   │   ├── project_rubric_template.md
-│   │   └── sql_script_template.sql
-│   └── downloads/                     # Quick access to installers info
-│       └── tool_links.md
+├── assets/                            # Shared resources (images, templates)
+├── Resources/                         # Study materials & interview guides
 │
-├── Module_00_Curriculum_Overview/
-│   ├── README.md                      # Module overview
-│   ├── 01_learning_objectives.md
-│   ├── 02_prerequisites_checklist.md
-│   ├── 03_assessment_framework.md
-│   └── 04_career_roadmap.md
+├── Module_00_Introduction/            # Career guide & introduction
+├── Module_01_SQL_Server_Setup/        # Installation & configuration
+├── Module_02_SQL_Fundamentals/        # SELECT, JOIN, aggregations
+├── Module_03_Advanced_SQL/            # CTEs, window functions
+├── Module_04_Database_Administration/ # Design, indexing, backup
+├── Module_05_TSQL_Programming/        # Procedures, functions, triggers
+├── Module_06_ETL_SSIS/                # SSIS fundamentals
+├── Module_07_Advanced_ETL/            # CDC, incremental loads
+├── Module_08_PowerBI/                 # Power BI reporting
+├── Module_09_SQL_Capstone/            # SQL track capstone project
 │
-├── Module_01_SQL_Server_Setup/
-│   ├── README.md
-│   ├── 01_sql_server_installation.md
-│   ├── 02_ssms_setup_guide.md
-│   ├── 03_adventureworks_setup.md
-│   ├── 04_verification_tests.sql
-│   └── screenshots/                   # Installation screenshots
-│
-├── Module_02_SQL_Fundamentals/
-│   ├── README.md
-│   ├── 01_select_basics.md
-│   ├── 02_filtering_sorting.md
-│   ├── 03_joins_relationships.md
-│   ├── 04_aggregations_grouping.md
-│   ├── 05_subqueries.md
-│   ├── labs/
-│   │   ├── lab_01_basic_queries.sql
-│   │   ├── lab_02_joins.sql
-│   │   └── ... (25+ labs)
-│   └── solutions/                     # Lab answer keys
-│
-├── Module_03_SQL_Advanced/
-│   ├── README.md
-│   ├── 01_ctes_recursive_queries.md
-│   ├── 02_window_functions.md
-│   ├── 03_query_optimization.md
-│   ├── 04_execution_plans.md
-│   ├── labs/
-│   └── solutions/
-│
-├── Module_04_Database_Administration/
-│   ├── README.md
-│   ├── 01_database_design_normalization.md
-│   ├── 02_indexes_performance.md
-│   ├── 03_backup_recovery.md
-│   ├── 04_security_permissions.md
-│   ├── labs/
-│   └── solutions/
-│
-├── Module_05_TSQL_Programming/
-│   ├── README.md
-│   ├── 01_stored_procedures.md
-│   ├── 02_functions_udf.md
-│   ├── 03_triggers.md
-│   ├── 04_error_handling.md
-│   ├── 05_dynamic_sql.md
-│   ├── labs/
-│   └── solutions/
-│
-├── Module_06_ETL_SSIS/
-│   ├── README.md
-│   ├── 01_ssis_architecture.md
-│   ├── 02_control_flow.md
-│   ├── 03_data_flow.md
-│   ├── 04_transformations.md
-│   ├── projects/                      # SSIS package samples
-│   └── solutions/
-│
-├── Module_07_Advanced_ETL/
-│   ├── README.md
-│   ├── 01_change_data_capture.md
-│   ├── 02_incremental_loads.md
-│   ├── 03_error_handling_logging.md
-│   ├── 04_orchestration_patterns.md
-│   ├── projects/
-│   └── solutions/
-│
-├── Module_08_PowerBI/
-│   ├── README.md
-│   ├── 01_data_modeling.md
-│   ├── 02_dax_fundamentals.md
-│   ├── 03_visualizations.md
-│   ├── 04_deployment_bestpractices.md
-│   ├── pbix_files/                    # Sample reports
-│   └── solutions/
-│
-└── Module_09_Capstone/
-    ├── README.md
-    ├── 01_project_requirements.md
-    ├── 02_architecture_design.md
-    ├── 03_implementation_guide.md
-    ├── 04_evaluation_rubric.md
-    └── sample_solution/               # Reference implementation
+├── Module_10_Python_Fundamentals/     # Python basics
+├── Module_11_Advanced_Python_OOP/     # OOP, decorators, generators
+├── Module_12_Data_Processing_Pandas/  # Pandas data processing
+├── Module_13_Python_SQL_Integration/  # SQLAlchemy, database connectivity
+├── Module_14_Apache_Spark_Intro/      # Spark architecture basics
+├── Module_15_PySpark_Fundamentals/    # PySpark DataFrames, SQL
+├── Module_16_Advanced_PySpark/        # Delta Lake, Streaming
+└── Module_17_Python_Capstone/         # Python track capstone project
 ```
 
 ---

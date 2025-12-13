@@ -350,14 +350,6 @@ After completing this setup, you'll dive into SQL fundamentals:
 
 ---
 
-## 📸 Screenshots Folder
-
-This module includes detailed screenshots for every step. If screenshots are missing, refer to:
-- [Screenshot Placeholders Guide](./screenshots/PLACEHOLDER_INSTRUCTIONS.md)
-- Official Microsoft documentation (links in each section)
-
----
-
 **Ready to begin? Start with [Section 1: SQL Server Installation →](./01_sql_server_installation.md)**
 
 ---

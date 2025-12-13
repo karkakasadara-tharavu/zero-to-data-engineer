@@ -1,3 +1,5 @@
+![Module 09 Header](../assets/images/module_09_header.svg)
+
 # Module 09: SQL Capstone Project
 
 ## Overview
