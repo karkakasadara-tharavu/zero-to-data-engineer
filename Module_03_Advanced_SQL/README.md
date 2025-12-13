@@ -352,6 +352,17 @@ After completing Module 03:
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 02: SQL Fundamentals](../Module_02_SQL_Fundamentals/) |
+| ➡️ Next | [Module 04: Database Administration](../Module_04_Database_Administration/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 *கற்க கசடற - Learn Flawlessly!*
 
 **Ready to level up your SQL skills? Let's begin! →** [Section 01: CTEs](./01_ctes.md)

@@ -202,6 +202,17 @@ After completing this module, you'll be ready to:
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 10: Python Fundamentals](../Module_10_Python_Fundamentals/) |
+| ➡️ Next | [Module 12: Data Processing with Pandas](../Module_12_Data_Processing_Pandas/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **Let's master Object-Oriented Programming!** 🚀
 
 **கற்க கசடற** - Learn Flawlessly

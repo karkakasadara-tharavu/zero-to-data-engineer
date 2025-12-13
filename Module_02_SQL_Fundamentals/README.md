@@ -444,5 +444,16 @@ You've got this! Every expert was once a beginner. Let's write some SQL! 💪�
 
 ---
 
-*Last Updated: December 7, 2025*  
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 01: SQL Server Setup](../Module_01_SQL_Server_Setup/) |
+| ➡️ Next | [Module 03: Advanced SQL](../Module_03_Advanced_SQL/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
+*Last Updated: December 7, 2025*
 *Karka Kasadara - Your Data Engineering Partner*

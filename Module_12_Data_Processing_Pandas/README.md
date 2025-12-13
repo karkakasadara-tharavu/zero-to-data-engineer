@@ -135,6 +135,17 @@ After completing this module, you'll be ready to:
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 11: Advanced Python OOP](../Module_11_Advanced_Python_OOP/) |
+| ➡️ Next | [Module 13: Python-SQL Integration](../Module_13_Python_SQL_Integration/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **Let's master data processing with Pandas!** 📊
 
 **கற்க கசடற** - Learn Flawlessly

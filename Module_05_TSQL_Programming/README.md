@@ -175,4 +175,11 @@ COMMIT TRANSACTION;
 
 ---
 
-**Next**: [Module 06: ETL with SSIS →](../Module_06_ETL_SSIS/README.md)
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 04: Database Administration](../Module_04_Database_Administration/) |
+| ➡️ Next | [Module 06: ETL with SSIS](../Module_06_ETL_SSIS/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |

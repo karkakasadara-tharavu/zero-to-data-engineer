@@ -71,4 +71,15 @@ Welcome to **Module 13: Python + SQL Integration**! This module bridges your Pyt
 
 ---
 
-**කற்க கசடற** - Learn Flawlessly
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 12: Data Processing with Pandas](../Module_12_Data_Processing_Pandas/) |
+| ➡️ Next | [Module 14: Apache Spark Introduction](../Module_14_Apache_Spark_Intro/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
+**ඕற்க கசடற** - Learn Flawlessly

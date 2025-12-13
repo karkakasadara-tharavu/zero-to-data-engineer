@@ -207,4 +207,11 @@ CALCULATE(
 
 ---
 
-**Next**: [Module 09: Capstone Project →](../Module_09_Capstone/README.md)
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 07: Advanced ETL](../Module_07_Advanced_ETL/) |
+| ➡️ Next | [Module 09: SQL Capstone](../Module_09_SQL_Capstone/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |

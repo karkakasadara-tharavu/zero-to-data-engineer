@@ -40,18 +40,39 @@ A comprehensive, hands-on curriculum designed to transform BE graduates into **j
 
 ## 🗂️ Curriculum Structure
 
-| Module | Topic | Duration | Difficulty | Status |
-|--------|-------|----------|------------|--------|
-| **[00](./Module_00_Curriculum_Overview/)** | Curriculum Overview & Prerequisites | 1 day | ⭐ Beginner | 📘 Orientation |
-| **[01](./Module_01_SQL_Server_Setup/)** | SQL Server Installation & Configuration | 2 days | ⭐ Beginner | 🛠️ Setup |
-| **[02](./Module_02_SQL_Fundamentals/)** | SQL Fundamentals (SELECT, JOIN, Aggregations) | 2 weeks | ⭐⭐ Beginner-Intermediate | 📖 Core Skills |
-| **[03](./Module_03_Advanced_SQL/)** | Advanced SQL (CTEs, Window Functions, Performance) | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 🚀 Advanced |
-| **[04](./Module_04_Database_Administration/)** | Database Design & Administration | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 🔧 DBA Skills |
-| **[05](./Module_05_TSQL_Programming/)** | T-SQL Programming (Procedures, Functions, Triggers) | 2 weeks | ⭐⭐⭐ Intermediate-Advanced | 💻 Programming |
-| **[06](./Module_06_ETL_SSIS/)** | ETL with SSIS Fundamentals | 2 weeks | ⭐⭐⭐ Intermediate | 📦 Data Integration |
-| **[07](./Module_07_Advanced_ETL/)** | Advanced ETL Patterns & CDC | 2 weeks | ⭐⭐⭐⭐ Advanced | 🔄 Production ETL |
-| **[08](./Module_08_PowerBI/)** | Power BI Reporting & Analytics | 2 weeks | ⭐⭐⭐ Intermediate | 📊 Visualization |
-| **[09](./Module_09_Capstone/)** | Capstone: End-to-End Data Warehouse | 2 weeks | ⭐⭐⭐⭐ Expert | 🎯 Portfolio Project |
+### 📊 SQL Track (Modules 00-09)
+
+| Module | Topic | Duration | Difficulty |
+|--------|-------|----------|------------|
+| **[00](./Module_00_Introduction/)** | Introduction & Career Guide | 1 day | ⭐ Beginner |
+| **[01](./Module_01_SQL_Server_Setup/)** | SQL Server Installation & Configuration | 2 days | ⭐ Beginner |
+| **[02](./Module_02_SQL_Fundamentals/)** | SQL Fundamentals (SELECT, JOIN, Aggregations) | 2 weeks | ⭐⭐ Intermediate |
+| **[03](./Module_03_Advanced_SQL/)** | Advanced SQL (CTEs, Window Functions) | 2 weeks | ⭐⭐⭐ Advanced |
+| **[04](./Module_04_Database_Administration/)** | Database Design & Administration | 2 weeks | ⭐⭐⭐ Advanced |
+| **[05](./Module_05_TSQL_Programming/)** | T-SQL Programming (Procedures, Functions) | 2 weeks | ⭐⭐⭐ Advanced |
+| **[06](./Module_06_ETL_SSIS/)** | ETL with SSIS Fundamentals | 2 weeks | ⭐⭐⭐ Intermediate |
+| **[07](./Module_07_Advanced_ETL/)** | Advanced ETL Patterns & CDC | 2 weeks | ⭐⭐⭐⭐ Advanced |
+| **[08](./Module_08_PowerBI/)** | Power BI Reporting & Analytics | 2 weeks | ⭐⭐⭐ Intermediate |
+| **[09](./Module_09_SQL_Capstone/)** | SQL Capstone: Data Warehouse Project | 2 weeks | ⭐⭐⭐⭐ Expert |
+
+### 🐍 Python Track (Modules 10-17)
+
+| Module | Topic | Duration | Difficulty |
+|--------|-------|----------|------------|
+| **[10](./Module_10_Python_Fundamentals/)** | Python Fundamentals | 2 weeks | ⭐⭐ Intermediate |
+| **[11](./Module_11_Advanced_Python_OOP/)** | Advanced Python & OOP | 2 weeks | ⭐⭐⭐ Advanced |
+| **[12](./Module_12_Data_Processing_Pandas/)** | Data Processing with Pandas | 2 weeks | ⭐⭐⭐ Advanced |
+| **[13](./Module_13_Python_SQL_Integration/)** | Python-SQL Integration (SQLAlchemy) | 2 weeks | ⭐⭐⭐ Advanced |
+| **[14](./Module_14_Apache_Spark_Intro/)** | Apache Spark Introduction | 1 week | ⭐⭐⭐ Intermediate |
+| **[15](./Module_15_PySpark_Fundamentals/)** | PySpark Fundamentals | 2 weeks | ⭐⭐⭐ Advanced |
+| **[16](./Module_16_Advanced_PySpark/)** | Advanced PySpark (Delta Lake, Streaming) | 2 weeks | ⭐⭐⭐⭐ Expert |
+| **[17](./Module_17_Python_Capstone/)** | Python Capstone: End-to-End Pipeline | 2 weeks | ⭐⭐⭐⭐ Expert |
+
+### 📚 Resources
+
+| Resource | Description |
+|----------|-------------|
+| **[Resources](./Resources/)** | Cheat Sheets, Interview Guides, Practice Problems |
 
 ---
 

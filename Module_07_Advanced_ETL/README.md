@@ -192,4 +192,11 @@ WHEN NOT MATCHED BY SOURCE THEN
 
 ---
 
-**Next**: [Module 08: Power BI Reporting →](../Module_08_PowerBI/README.md)
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 06: ETL with SSIS](../Module_06_ETL_SSIS/) |
+| ➡️ Next | [Module 08: Power BI](../Module_08_PowerBI/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |

@@ -223,4 +223,15 @@ After completing this module, you should be able to:
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 03: Advanced SQL](../Module_03_Advanced_SQL/) |
+| ➡️ Next | [Module 05: T-SQL Programming](../Module_05_TSQL_Programming/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **Start with**: [Section 01: Database Design Fundamentals →](./01_design_fundamentals.md)

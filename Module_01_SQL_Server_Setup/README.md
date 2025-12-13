@@ -362,5 +362,16 @@ This module includes detailed screenshots for every step. If screenshots are mis
 
 ---
 
-*Last Updated: December 7, 2025*  
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 00: Introduction](../Module_00_Introduction/) |
+| ➡️ Next | [Module 02: SQL Fundamentals](../Module_02_SQL_Fundamentals/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
+*Last Updated: December 7, 2025*
 *Maintained by: Karka Kasadara - Learn Flawlessly, Grow Together*

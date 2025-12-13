@@ -34,16 +34,14 @@ Welcome to **Module 16: Advanced PySpark**! This module takes your PySpark skill
 ## Module Structure
 
 ### Theory Sections
-1. Advanced DataFrame operations
-2. Window functions deep dive
-3. Partitioning and bucketing strategies
-4. Broadcast variables and accumulators
-5. Performance tuning and optimization
-6. Memory management
-7. Spark Structured Streaming introduction
-8. Data quality and validation
-9. Testing PySpark applications
-10. Production deployment best practices
+
+| File | Topic |
+|------|-------|
+| [01_udfs.md](./theory/01_udfs.md) | User Defined Functions (UDFs) |
+| [02_performance.md](./theory/02_performance.md) | Performance Optimization |
+| [03_spark_sql.md](./theory/03_spark_sql.md) | Advanced Spark SQL |
+| [04_delta_lake.md](./theory/04_delta_lake.md) | Delta Lake (ACID, MERGE, Time Travel) |
+| [05_spark_streaming.md](./theory/05_spark_streaming.md) | Spark Structured Streaming |
 
 ### Labs
 1. Complex window functions
@@ -67,6 +65,17 @@ Welcome to **Module 16: Advanced PySpark**! This module takes your PySpark skill
 - Production data platforms
 
 ## Time Commitment: 40-50 hours
+
+---
+
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 15: PySpark Fundamentals](../Module_15_PySpark_Fundamentals/) |
+| ➡️ Next | [Module 17: Python Capstone](../Module_17_Python_Capstone/) |
+| 🏠 Home | [Main README](../README.md) |
+| 📚 Resources | [Cheat Sheets & Interview Prep](../Resources/) |
 
 ---
 

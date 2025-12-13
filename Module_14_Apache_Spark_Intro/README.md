@@ -71,4 +71,15 @@ Welcome to **Module 14: Apache Spark Introduction**! This module introduces you 
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 13: Python-SQL Integration](../Module_13_Python_SQL_Integration/) |
+| ➡️ Next | [Module 15: PySpark Fundamentals](../Module_15_PySpark_Fundamentals/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **கற்க கசடற** - Learn Flawlessly

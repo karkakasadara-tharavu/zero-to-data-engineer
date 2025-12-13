@@ -85,3 +85,23 @@ You are the lead data engineer for **GlobalMart**, an international retail compa
 4. Power BI reports
 5. Technical documentation
 6. Presentation slides
+
+---
+
+## 📖 Theory & Guides
+
+| File | Description |
+|------|-------------|
+| [01_capstone_project_guide.md](./01_capstone_project_guide.md) | Complete project walkthrough with examples |
+
+---
+
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 08: Power BI](../Module_08_PowerBI/) |
+| ➡️ Next | [Module 10: Python Fundamentals](../Module_10_Python_Fundamentals/) |
+| 🏠 Home | [Main README](../README.md) |
+| 📚 Resources | [Cheat Sheets & Interview Prep](../Resources/) |
+6. Presentation slides

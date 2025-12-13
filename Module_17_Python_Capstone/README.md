@@ -196,6 +196,16 @@ Completing this capstone marks the end of your journey from zero to data enginee
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 16: Advanced PySpark](../Module_16_Advanced_PySpark/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **கற்க கசடற** - Learn Flawlessly
 
 **From Zero to Data Engineer**: Complete Curriculum | 320+ Hours | Production-Ready Skills

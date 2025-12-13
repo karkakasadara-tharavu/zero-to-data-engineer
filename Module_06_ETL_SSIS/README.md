@@ -134,4 +134,11 @@ OLE DB Destination (StagingSales table)
 
 ---
 
-**Next**: [Module 07: Advanced ETL Patterns →](../Module_07_Advanced_ETL/README.md)
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 05: T-SQL Programming](../Module_05_TSQL_Programming/) |
+| ➡️ Next | [Module 07: Advanced ETL](../Module_07_Advanced_ETL/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |

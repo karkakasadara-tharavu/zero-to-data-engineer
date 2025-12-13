@@ -356,6 +356,17 @@ Module_10_Python_Fundamentals/
 
 ---
 
+## 🔗 Navigation
+
+| Direction | Link |
+|-----------|------|
+| ⬅️ Previous | [Module 09: SQL Capstone](../Module_09_SQL_Capstone/) |
+| ➡️ Next | [Module 11: Advanced Python OOP](../Module_11_Advanced_Python_OOP/) |
+| 🏠 Home | [Main Curriculum](../README.md) |
+| 📚 Resources | [Study Materials](../Resources/) |
+
+---
+
 **கற்க கசடற** - Learn Flawlessly
 
 *Start your Python journey today!*
